@@ -1,2 +1,2 @@
 # workout-buddy
-MERN workout web app with user auth
+MERN workout web app with user auth (jwt)
